@@ -2,6 +2,8 @@
     /* border: 1px solid red; */
     padding: 15px;
     text-align: center;
+    background-color: white;
+    margin-bottom: 1%;
   }
 
   * {
@@ -28,8 +30,20 @@
   }
   .sidebar{
     padding-left: 8%;
+    background-color: white;
+    padding-right: 4%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
+  body{
+    background-color: grey;
+    
   }
 
+  .dog{
+    background-color: white;
+    padding-left: 2%;
+  }
 
 
 
